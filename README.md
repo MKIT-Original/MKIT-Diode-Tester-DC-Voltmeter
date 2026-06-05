@@ -2,8 +2,8 @@
   <img src="assets/channel_logo.png" alt="Channel Logo" width="200" style="background:white; padding:10px; border-radius:15px;"/>
 </p>
 
-<h1 align="center">MKIT-Induction-ZVS-120W</h1>
-<p align="center">📌 Induction converter project with ZVS circuit and 120W power</p>
+<h1 align="center">MKIT-Diode-Tester-DC-Voltmeter</h1>
+<p align="center">📌 Voltmeter and diode test project with 2x8 LCD</p>
 
 <p align="center">
   <img src="project_image.png" alt="Project Image" width="400" style="border-radius:10px;"/>
