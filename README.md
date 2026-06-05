@@ -6,9 +6,8 @@
 <p align="center">📌 Voltmeter and diode test project with 2x8 LCD</p>
 
 <p align="center">
-  <img src="project_image1.png" alt="Project Image 1" width="350" style="border-radius:10px;"/>
-  &nbsp;&nbsp;
-  <img src="project_image2.png" alt="Project Image 2" width="350" style="border-radius:10px;"/>
+  <img src="project_image1.png" alt="Project Image 1" width="48%" style="border-radius:10px;"/>
+  <img src="project_image2.png" alt="Project Image 2" width="48%" style="border-radius:10px;"/>
 </p>
 
 <hr style="width:50%; border:1px solid #ccc; margin:20px auto;"/>
