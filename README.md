@@ -30,32 +30,39 @@
 </div>
 
 ## 📝 Project Description
-The **MKIT-Induction-ZVS-120W** is a high-efficiency **Zero Voltage Switching (ZVS)** induction heating circuit. This project is ideal for DIY enthusiasts, 3D printing filament joining, and small-scale metal hardening.
 
-### Key Features:
-- **Fast Heating:** Reaches 200°C+ in seconds.
-- **Efficiency:** ZVS technology ensures minimal switching loss.
-- **Versatile:** Can be optimized for different power levels by swapping MOSFETs.
+The **MKIT-Diode-Tester-DC-Voltmeter** is a simple embedded system built around the **ATmega8 microcontroller**.
+
+It is designed to:
+- 🔹 Measure DC voltage in the range of 0–30V
+- 🔹 Perform basic diode testing with a **Good / Bad** indication
+
+This project is intended for educational use, focusing on fundamental concepts of electronics and embedded systems design.
+## ✨ Key Features
+-  🔹⚡ DC Voltage Measurement: 0V to 30V range  
+-  🔹🔍 Diode Testing: Quick GOOD / BAD detection  
+-  🔹📟 Display: 2x8 Character LCD interface  
+-  🔹🧠 Microcontroller: ATmega8 based system  
+-  🔹🔌 Power Supply: 12V DC input  
+-  🔹🛠️ Simple, low-cost and educational design  
 
 ## ⚙️ Project Details
-
-- **Output Wattage:** 120 Watts (Max)
-- **Input Voltage Range per MOSFET:**
-
-| MOSFET Type | Input Voltage Range | Recommended Use Case |
-| :--- | :--- | :--- |
-| **IRF540N** | 12V DC to 24V DC | High voltage applications / Heavy duty |
-| **IRF3205** | 7V DC to 15V DC | **Filament Joining** / High Efficiency |
-| **IRFZ44N** | 9V DC to 15V DC | General purpose / Standard ZVS |
-
-> ⚠️ **IMPORTANT:** Never power the circuit without the **Work Coil** attached. Doing so will cause an immediate failure of the MOSFETs.
-
+| Parameter           | Specification              |
+| :------------------ | :------------------------- |
+| 🧠 Microcontroller   | ATmega8                    |
+| 📟 Display           | 2x8 Character LCD          |
+| ⚡ Input Voltage     | 0 – 30V DC                 |
+| 🔍 Diode Test        | Good / Bad Detection       |
+| 🔌 Supply Voltage    | 12V DC                     |
 ## 📦 Main Components
-- MOSFETs : 2x (IRF540N / IRFZ44N / IRF3205)
-- Diodes : 2x 12V 1W Zener / 2x (fr307)
-- **Capacitor:**  x2 0.33μF 1200V MKP
-- **Resistors:** 2x 10KΩ + 2x 470Ω (2W)
-- **Inductors:** 2x 100μH - 10A Toroidal Chokes
+
+- 🔹 ATmega8 Microcontroller  
+- 🔹 2x8 Character LCD Display  
+- 🔹 Voltage Divider Circuit  
+- 🔹 Diode Test Circuit  
+- 🔹 12V DC Power Input  
+- 🔹 Passive Components  
+- 🔹 Crystal Oscillator (optional)
 
 <hr style="border:0.5px solid #eee; margin:30px 0;"/>
 <p align="center">
