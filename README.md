@@ -15,7 +15,7 @@
 <div align="center">
   <div style="background:#f7f7f7; padding:20px; border-radius:15px; width:260px;">
     <p align="center">
-      <a href="(https://youtu.be/DGnY1bNK8ow)">
+      <a href="[(https://youtu.be/DGnY1bNK8ow)](https://youtu.be/DGnY1bNK8ow)">
         <img src="https://cdn.simpleicons.org/youtube/FF0000" 
              width="60" 
              style="background:white; border-radius:50%; padding:8px;" 
